@@ -11,8 +11,8 @@ Machine Learning · NLP · Data Analysis · (expanding into) LLMs & RAG
 ## Projects
 | Project | Description | Result |
 |---|---|---|
-| [Movie Recommender](https://github.com/JudeDavid15/Movie_Recommendation_System) | Content-based recommender using TF-IDF + cosine similarity on plot/genre/crew — deployed as a live app | [Live demo](https://movierecommendationsystem-p3muw2rldv8zv4sqgaqnhq.streamlit.app/) |
-| [S.A.M](https://github.com/JudeDavid15/S.A.M) | Modular Python voice assistant — speech recognition, TTS, news fetching | — |
+| [Movie Recommender](https://github.com/JudeDavid15/Movie_Recommendation_System) | Content-based recommender using TF-IDF + cosine similarity on plot/genre/crew: deployed as a live app | [Live demo](https://movierecommendationsystem-p3muw2rldv8zv4sqgaqnhq.streamlit.app/) |
+| [S.A.M](https://github.com/JudeDavid15/S.A.M) | Modular Python voice assistant :speech recognition, TTS, news fetching | — |
 | [Email_Spam](https://github.com/JudeDavid15/Email_Spam) | Spam email classifier using TF-IDF + Logistic Regression | 98.7% accuracy |
 | [Headline_Classification](https://github.com/JudeDavid15/Headline_Classfication) | News headline classifier (5 categories) using TF-IDF + Logistic Regression/KNN/SVM | ~98% accuracy |
 | [Music_Mood_Prediction](https://github.com/JudeDavid15/Music_Mood_Prediction) | Song mood classifier from Spotify audio features using KNN/Random Forest | ~93% accuracy |
