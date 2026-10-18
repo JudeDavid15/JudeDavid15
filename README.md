@@ -3,10 +3,10 @@ B.Sc. Mathematics · Loyola College, Chennai
 Transitioning into AI/ML and GenAI engineering, applying a strong math foundation to statistics-driven and language-based models.
 
 ## Focus areas
-Machine Learning · NLP · Data Analysis · (expanding into) LLMs & RAG
+Machine Learning · NLP · CV · Artificial Intelligence · LLMs & RAG  
 
 ## Tech stack
-`Python` · `scikit-learn` · `Pandas` · `NumPy` · `PyTorch` · `Jupyter` · `Matplotlib` · `Java` · `HTML` · `CSS` · `JavaScript` · `Three.js`
+`Python` · `scikit-learn` · `Pandas` · `NumPy` · `PyTorch` · `Jupyter` · `Matplotlib` · `Java` · `HTML` · `CSS` · `JavaScript` · `Three.js` · `LangChain` · `Langgraph` ·
 
 ## Projects
 | Project | Description | Result |
