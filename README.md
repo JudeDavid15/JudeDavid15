@@ -11,6 +11,7 @@ Machine Learning · NLP · CV · Artificial Intelligence · LLMs & RAG
 ## Projects
 | Project | Description | Result |
 |---|---|---|
+| [EU AI Act RAG](https://github.com/JudeDavid15/EU-AI-Act-Rag) | Legal research assistant using hybrid BM25 + dense retrieval, cross-encoder reranking, citation verification and NLI guardrails, with FastAPI, Streamlit and Docker Compose | End-to-end RAG prototype with automated tests and benchmark suite |
 | [Movie Recommender](https://github.com/JudeDavid15/Movie_Recommendation_System) | Content-based recommender using TF-IDF + cosine similarity on plot/genre/crew: deployed as a live app | [Live demo](https://movierecommendationsystem-p3muw2rldv8zv4sqgaqnhq.streamlit.app/) |
 | [S.A.M](https://github.com/JudeDavid15/S.A.M) | Modular Python voice assistant :speech recognition, TTS, news fetching | — |
 | [Email_Spam](https://github.com/JudeDavid15/Email_Spam) | Spam email classifier using TF-IDF + Logistic Regression | 98.7% accuracy |
