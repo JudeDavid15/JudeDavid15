@@ -6,7 +6,7 @@ Transitioning into AI/ML and GenAI engineering, applying a strong math foundatio
 Machine Learning · NLP · CV · Artificial Intelligence · LLMs & RAG  
 
 ## Tech stack
-`Python` · `scikit-learn` · `Pandas` · `NumPy` · `PyTorch` · `Jupyter` · `Matplotlib` · `Java` · `HTML` · `CSS` · `JavaScript` · `Three.js` · `LangChain` · `Langgraph` ·
+`Python` · `scikit-learn` · `Pandas` · `NumPy` · `PyTorch` · `Jupyter` · `Matplotlib` · `Java` · `HTML` · `CSS` · `JavaScript` · `Three.js` · `LangChain` · `Langgraph` · `RAGAS` · `Streamlit` · `Docker` ·
 
 ## Projects
 | Project | Description | Result |
@@ -20,7 +20,7 @@ Machine Learning · NLP · CV · Artificial Intelligence · LLMs & RAG
 | [Student-Prediction](https://github.com/JudeDavid15/Student-Prediction) | Student grade prediction using Linear Regression/Decision Tree/Random Forest | Regression comparison |
 
 ## Certifications
-Python for Everybody (University of Michigan) · Responsive Web Design (University of London)
+Python for Everybody (University of Michigan)· Pytorch Fundamentals (Deeplearning.ai) · Responsive Web Design (University of London) 
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/jude-david/) · [Email](mailto:judedavidt@gmail.com)
